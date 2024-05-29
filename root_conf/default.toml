@@ -1,4 +1,4 @@
-token = 'bnumpoctzekjnhrhe5efb5a71bf4e2b1'
+token = ''
 tracking_id = ''
 #
 os_type = 'linux'
@@ -7,7 +7,7 @@ os_version = 'os_version'
 product = 'product' 
 
 [package]
-package_id = 65
+package_id = 66
 package_version = '0.0.300'
 
 [build]
